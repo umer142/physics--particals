@@ -1,0 +1,5 @@
+1:    canvas is using for drawing html5 tag
+
+2:    getContext is also the html5 element 
+
+3:       asyn await ,  promises ,  axious 
